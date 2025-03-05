@@ -17,6 +17,8 @@ Created an optimized schema for storing and analyzing invoice data.
 
 Ensured efficient relationships between dimensions and fact tables.
 
+![DW_Invoices_Digram](https://github.com/user-attachments/assets/009f12e5-446a-490a-bcef-b82b7d8db9c8)
+
 
 2️⃣ DW Implementation (PostgreSQL):
 
